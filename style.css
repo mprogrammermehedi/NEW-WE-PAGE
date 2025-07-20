@@ -41,7 +41,7 @@ color: #423131;
     margin-top: 70px;
 }
 .navbar-title{
- font-size:1rem;
+ font-size:2.4rem;
  font-size: 700;
 }
 .section-description{font-size: 1rem;
@@ -123,17 +123,16 @@ margin: 25px  2px 18px;
  display: grid;
  margin:  0 auto;
  grid-template-columns: repeat(3,1fr);
-  padding-top: 30px;
+  padding-top: 20px;
   max-width: 1100px;
   gap: 30px;
-
-
-   
- }
+}
  .product-card{
- border: #2a2222 1px solid;
- padding:14px 17px ;
- border:15px ;
+   padding: 30px;
+   border:15px ;
+   box-shadow: 0 0 5px rgba(2, 2, 2, 0.1);
+   border-radius: 15px;
+
 
  }
 
